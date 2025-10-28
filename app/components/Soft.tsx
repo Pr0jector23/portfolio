@@ -1,3 +1,5 @@
+'use client'
+
 import React from "react"
 import SoftCard from "./SoftCard";
 import { GiTeamIdea } from "react-icons/gi";
