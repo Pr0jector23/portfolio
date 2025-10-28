@@ -14,7 +14,7 @@ const Profile = () => {
         className="bg-radial from-indigo-400 from-40% to-emerald-700 
                     md:w-60 md:h-60 w-40 h-40 flex justify-center items-center rounded-full
                     shadow-gray-400 shadow-md overflow-clip mt-5">
-        <img src="./public/img/axolotl.png" alt="pfp"/>
+        <img src="./img/axolotl.png" alt="pfp"/>
         <div className="absolute ">
           <div className="transform md:-translate-x-35 md:-translate-y-20 -translate-x-25 -translate-y-10">{bubble}</div>
           <div className="transform md:translate-x-35 md:translate-y-20 translate-x-25 translate-y-10">{bubble}</div>
