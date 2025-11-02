@@ -20,7 +20,7 @@ const Projects = () => {
         MY PROJECTS
       </h1>
       <div className="grid md:grid-cols-3 grid-cols-1 md:gap-10 gap-5 px-10">
-        <ProjectCard label="Nimbus Weather" icon = {FaCloudSunRain} iconColor="#4d65b4" iconSize={defaultSize} github="aaa"/>
+        <ProjectCard label="Nimbus Weather" icon = {FaCloudSunRain} iconColor="#4d65b4" iconSize={defaultSize} github="https://github.com/Pr0jector23/nimbus-weather"/>
         <ProjectCard label={"Memory Card Game"} icon = {GiCardRandom} iconColor="#a884f3" iconSize={defaultSize} github="https://github.com/Pr0jector23/match-game-100" demo="https://pr0jector23.github.io/match-game-100/"/>
         <ProjectCard label="Conway's Game of Life" icon = {GiConwayLifeGlider} iconColor="#4487b9" iconSize={defaultSize} github="https://github.com/Pr0jector23/game-of-life" demo="https://pr0jector23.github.io/game-of-life/"/>
         <ProjectCard label={"Current Porfolio"} icon = {FaAddressCard} iconColor="#239063" iconSize={defaultSize} github="https://github.com/Pr0jector23/portfolio" demo="https://pr0jector23.github.io/portfolio/"/>
