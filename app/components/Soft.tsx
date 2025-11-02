@@ -14,7 +14,7 @@ const Soft = () => {
   return (
     <div className="flex flex-col justify-around items-center w-[100%] border-b-8 border-gray-300 border-dashed pb-10 space-y-10">
       <h1 className="text-4xl font-bold">
-        SOFT SKILLS!
+        MY SOFT SKILLS
       </h1>
       <div className="grid md:grid-cols-3 grid-cols-1 md:gap-10 gap-5 px-10">
         <SoftCard label="Great at teamwork" icon = {GiTeamIdea} iconColor="#4d65b4" iconSize={50}/>
